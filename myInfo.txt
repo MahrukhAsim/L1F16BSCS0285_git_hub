@@ -1,5 +1,8 @@
-"Name: MahrukhWajeehaAsim" 
+"Name: MahrukhAsim" 
 Email: lucky.mahrukh@gmail.com
 Faculty of Information Technology
+<<<<<<< HEAD
 UCP
 "Name: MahrukhAsim" 
+=======
+>>>>>>> 7058f2209fd92017992821a49387ab9a17375380
